@@ -1,0 +1,3 @@
+D:/Alexey/CLionProjects/Stepik/Two-dimensional_arrays/Task13(snake)/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Alexey/CLionProjects/Stepik/Two-dimensional_arrays/Task13(snake)/cmake-build-debug/CMakeFiles/Task13_snake_.dir
+D:/Alexey/CLionProjects/Stepik/Two-dimensional_arrays/Task13(snake)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

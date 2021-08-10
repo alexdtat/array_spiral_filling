@@ -1,0 +1,3 @@
+"D:\Program Files\CLion 2021.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Task13_snake_.dir/objects.a
+"D:\Program Files\mingw64\bin\ar.exe" cr CMakeFiles\Task13_snake_.dir/objects.a @CMakeFiles\Task13_snake_.dir\objects1.rsp
+"D:\Program Files\mingw64\bin\g++.exe" -g -Wl,--whole-archive CMakeFiles\Task13_snake_.dir/objects.a -Wl,--no-whole-archive -o Task13_snake_.exe -Wl,--out-implib,libTask13_snake_.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Task13_snake_.dir\linklibs.rsp

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Alexey/CLionProjects/Stepik/Two-dimensional_arrays/Task13(snake)/main.cpp
+iostream
+-
+iomanip
+-
+
